@@ -1,0 +1,153 @@
+order_id,date,product,category,region,salesperson,units,unit_price
+W42-0001,2026-10-12,Monitor 27,Electronics,North,Lukas,1,319
+W42-0002,2026-10-13,Monitor 27,Electronics,West,Sarah,1,319
+W42-0003,2026-10-14,Wireless Mouse,Accessories,West,Tom,1,35
+W42-0004,2026-10-15,Keyboard,Accessories,East,Nina,4,79
+W42-0005,2026-10-16,Laptop Pro,Electronics,South,David,3,1199
+W42-0006,2026-10-17,Laptop Pro,Electronics,North,Anna,1,1199
+W42-0007,2026-10-18,Keyboard,Accessories,West,Tom,5,79
+W42-0008,2026-10-12,Keyboard,Accessories,North,Anna,1,79
+W42-0009,2026-10-13,USB-C Dock,Accessories,North,Lukas,1,149
+W42-0010,2026-10-14,Laptop Air,Electronics,North,Lukas,3,899
+W42-0011,2026-10-15,Laptop Pro,Electronics,North,Anna,2,1199
+W42-0012,2026-10-16,Office Chair,Furniture,South,Maya,3,249
+W42-0013,2026-10-17,Wireless Mouse,Accessories,South,David,3,35
+W42-0014,2026-10-18,Laptop Air,Electronics,South,Maya,1,899
+W42-0015,2026-10-12,Monitor 27,Electronics,North,Lukas,2,319
+W42-0016,2026-10-13,Wireless Mouse,Accessories,West,Sarah,4,35
+W42-0017,2026-10-14,Monitor 27,Electronics,North,Anna,1,319
+W42-0018,2026-10-15,Wireless Mouse,Accessories,West,Sarah,1,35
+W42-0019,2026-10-16,Laptop Pro,Electronics,South,Maya,3,1199
+W42-0020,2026-10-17,Laptop Pro,Electronics,North,Anna,3,1199
+W42-0021,2026-10-18,Webcam HD,Accessories,West,Tom,2,89
+W42-0022,2026-10-12,Desk Lamp,Furniture,East,Michael,1,55
+W42-0023,2026-10-13,Keyboard,Accessories,West,Tom,1,79
+W42-0024,2026-10-14,Wireless Mouse,Accessories,North,Anna,1,35
+W42-0025,2026-10-15,Keyboard,Accessories,South,David,2,79
+W42-0026,2026-10-16,Wireless Mouse,Accessories,East,Nina,1,35
+W42-0027,2026-10-17,Monitor 27,Electronics,East,Michael,1,319
+W42-0028,2026-10-18,Desk Lamp,Furniture,South,Maya,1,55
+W42-0029,2026-10-12,Office Chair,Furniture,North,Anna,4,249
+W42-0030,2026-10-13,Wireless Mouse,Accessories,North,Anna,2,35
+W42-0031,2026-10-14,Desk Lamp,Furniture,North,Lukas,2,55
+W42-0032,2026-10-15,USB-C Dock,Accessories,South,David,2,149
+W42-0033,2026-10-16,Monitor 27,Electronics,North,Anna,1,319
+W42-0034,2026-10-17,Office Chair,Furniture,North,Lukas,1,249
+W42-0035,2026-10-18,Laptop Pro,Electronics,North,Lukas,1,1199
+W42-0036,2026-10-12,Desk Lamp,Furniture,North,Lukas,3,55
+W42-0037,2026-10-13,Laptop Air,Electronics,West,Sarah,2,899
+W42-0038,2026-10-14,USB-C Dock,Accessories,South,David,4,149
+W42-0039,2026-10-15,USB-C Dock,Accessories,North,Anna,1,149
+W42-0040,2026-10-16,Wireless Mouse,Accessories,South,David,2,35
+W42-0041,2026-10-17,Laptop Pro,Electronics,North,Lukas,4,1199
+W42-0042,2026-10-18,Keyboard,Accessories,North,Lukas,1,79
+W42-0043,2026-10-12,Webcam HD,Accessories,North,Anna,4,89
+W42-0044,2026-10-13,Monitor 27,Electronics,North,Lukas,1,319
+W42-0045,2026-10-14,Wireless Mouse,Accessories,West,Sarah,1,35
+W42-0046,2026-10-15,Laptop Air,Electronics,North,Anna,3,899
+W42-0047,2026-10-16,Laptop Air,Electronics,West,Sarah,1,899
+W42-0048,2026-10-17,Keyboard,Accessories,South,David,3,79
+W42-0049,2026-10-18,USB-C Dock,Accessories,South,Maya,3,149
+W42-0050,2026-10-12,USB-C Dock,Accessories,East,Nina,1,149
+W42-0051,2026-10-13,Keyboard,Accessories,North,Anna,1,79
+W42-0052,2026-10-14,Desk Lamp,Furniture,South,David,3,55
+W42-0053,2026-10-15,Monitor 27,Electronics,East,Nina,3,319
+W42-0054,2026-10-16,Office Chair,Furniture,South,Maya,5,249
+W42-0055,2026-10-17,USB-C Dock,Accessories,West,Tom,2,149
+W42-0056,2026-10-18,Monitor 27,Electronics,South,Maya,1,319
+W42-0057,2026-10-12,Keyboard,Accessories,South,Maya,1,79
+W42-0058,2026-10-13,Desk Lamp,Furniture,North,Lukas,1,55
+W42-0059,2026-10-14,Monitor 27,Electronics,North,Lukas,1,319
+W42-0060,2026-10-15,Keyboard,Accessories,East,Nina,2,79
+W42-0061,2026-10-16,Headset,Accessories,East,Nina,5,119
+W42-0062,2026-10-17,Laptop Pro,Electronics,South,Maya,3,1199
+W42-0063,2026-10-18,Wireless Mouse,Accessories,South,David,2,35
+W42-0064,2026-10-12,Laptop Air,Electronics,South,David,3,899
+W42-0065,2026-10-13,Monitor 27,Electronics,West,Tom,1,319
+W42-0066,2026-10-14,Laptop Pro,Electronics,East,Michael,1,1199
+W42-0067,2026-10-15,Keyboard,Accessories,West,Tom,2,79
+W42-0068,2026-10-16,Monitor 27,Electronics,North,Anna,2,319
+W42-0069,2026-10-17,Monitor 27,Electronics,South,David,2,319
+W42-0070,2026-10-18,Laptop Pro,Electronics,West,Sarah,2,1199
+W42-0071,2026-10-12,Desk Lamp,Furniture,North,Anna,4,55
+W42-0072,2026-10-13,Desk Lamp,Furniture,North,Anna,1,55
+W42-0073,2026-10-14,Wireless Mouse,Accessories,North,Lukas,2,35
+W42-0074,2026-10-15,Wireless Mouse,Accessories,West,Sarah,1,35
+W42-0075,2026-10-16,Keyboard,Accessories,South,David,2,79
+W42-0076,2026-10-17,Laptop Air,Electronics,East,Nina,1,899
+W42-0077,2026-10-18,Monitor 27,Electronics,East,Michael,2,319
+W42-0078,2026-10-12,Headset,Accessories,North,Lukas,2,119
+W42-0079,2026-10-13,Headset,Accessories,North,Lukas,1,119
+W42-0080,2026-10-14,Headset,Accessories,West,Sarah,1,119
+W42-0081,2026-10-15,Laptop Air,Electronics,West,Sarah,3,899
+W42-0082,2026-10-16,Desk Lamp,Furniture,West,Sarah,1,55
+W42-0083,2026-10-17,Laptop Pro,Electronics,North,Anna,1,1199
+W42-0084,2026-10-18,Laptop Pro,Electronics,North,Anna,1,1199
+W42-0085,2026-10-12,Office Chair,Furniture,South,Maya,2,249
+W42-0086,2026-10-13,Wireless Mouse,Accessories,South,Maya,1,35
+W42-0087,2026-10-14,Headset,Accessories,South,Maya,1,119
+W42-0088,2026-10-15,Keyboard,Accessories,North,Anna,2,79
+W42-0089,2026-10-16,Laptop Pro,Electronics,West,Tom,2,1199
+W42-0090,2026-10-17,Monitor 27,Electronics,West,Sarah,1,319
+W42-0091,2026-10-18,Headset,Accessories,South,Maya,5,119
+W42-0092,2026-10-12,Laptop Pro,Electronics,North,Anna,1,1199
+W42-0093,2026-10-13,USB-C Dock,Accessories,North,Lukas,1,149
+W42-0094,2026-10-14,Laptop Pro,Electronics,North,Anna,1,1199
+W42-0095,2026-10-15,Desk Lamp,Furniture,North,Lukas,1,55
+W42-0096,2026-10-16,Desk Lamp,Furniture,West,Sarah,1,55
+W42-0097,2026-10-17,Desk Lamp,Furniture,East,Nina,5,55
+W42-0098,2026-10-18,Headset,Accessories,East,Michael,3,119
+W42-0099,2026-10-12,Monitor 27,Electronics,North,Anna,1,319
+W42-0100,2026-10-13,Webcam HD,Accessories,South,Maya,2,89
+W42-0101,2026-10-14,Wireless Mouse,Accessories,South,Maya,1,35
+W42-0102,2026-10-15,Monitor 27,Electronics,North,Lukas,1,319
+W42-0103,2026-10-16,Desk Lamp,Furniture,South,David,1,55
+W42-0104,2026-10-17,Webcam HD,Accessories,South,Maya,1,89
+W42-0105,2026-10-18,Wireless Mouse,Accessories,South,Maya,1,35
+W42-0106,2026-10-12,USB-C Dock,Accessories,East,Nina,1,149
+W42-0107,2026-10-13,Laptop Pro,Electronics,South,Maya,2,1199
+W42-0108,2026-10-14,Keyboard,Accessories,West,Sarah,1,79
+W42-0109,2026-10-15,Keyboard,Accessories,East,Nina,1,79
+W42-0110,2026-10-16,Office Chair,Furniture,East,Michael,1,249
+W42-0111,2026-10-17,Keyboard,Accessories,West,Sarah,1,79
+W42-0112,2026-10-18,Desk Lamp,Furniture,East,Michael,1,55
+W42-0113,2026-10-12,Desk Lamp,Furniture,North,Lukas,1,55
+W42-0114,2026-10-13,Laptop Air,Electronics,North,Lukas,5,899
+W42-0115,2026-10-14,USB-C Dock,Accessories,South,Maya,1,149
+W42-0116,2026-10-15,Laptop Pro,Electronics,West,Sarah,1,1199
+W42-0117,2026-10-16,Webcam HD,Accessories,East,Michael,1,89
+W42-0118,2026-10-17,Wireless Mouse,Accessories,South,Maya,2,35
+W42-0119,2026-10-18,Wireless Mouse,Accessories,South,David,2,35
+W42-0120,2026-10-12,Webcam HD,Accessories,West,Tom,3,89
+W42-0121,2026-10-13,Webcam HD,Accessories,North,Anna,2,89
+W42-0122,2026-10-14,USB-C Dock,Accessories,North,Lukas,2,149
+W42-0123,2026-10-15,Laptop Pro,Electronics,West,Tom,2,1199
+W42-0124,2026-10-16,Laptop Pro,Electronics,East,Michael,3,1199
+W42-0125,2026-10-17,Keyboard,Accessories,West,Tom,4,79
+W42-0126,2026-10-18,Office Chair,Furniture,South,Maya,1,249
+W42-0127,2026-10-12,Office Chair,Furniture,West,Sarah,1,249
+W42-0128,2026-10-13,Laptop Air,Electronics,North,Anna,2,899
+W42-0129,2026-10-14,Laptop Air,Electronics,West,Tom,1,899
+W42-0130,2026-10-15,Laptop Air,Electronics,North,Lukas,2,899
+W42-0131,2026-10-16,Laptop Air,Electronics,South,David,2,899
+W42-0132,2026-10-17,Monitor 27,Electronics,South,Maya,2,319
+W42-0133,2026-10-18,Office Chair,Furniture,North,Lukas,1,249
+W42-0134,2026-10-12,Webcam HD,Accessories,West,Sarah,2,89
+W42-0135,2026-10-13,Laptop Pro,Electronics,North,Lukas,1,1199
+W42-0136,2026-10-14,Wireless Mouse,Accessories,East,Michael,4,35
+W42-0137,2026-10-15,Keyboard,Accessories,West,Sarah,3,79
+W42-0138,2026-10-16,USB-C Dock,Accessories,East,Michael,2,149
+W42-0139,2026-10-17,USB-C Dock,Accessories,North,Lukas,1,149
+W42-0140,2026-10-18,Desk Lamp,Furniture,South,David,1,55
+W42-0141,2026-10-12,Webcam HD,Accessories,South,Maya,2,89
+W42-0142,2026-10-13,USB-C Dock,Accessories,East,Nina,1,149
+W42-0143,2026-10-14,USB-C Dock,Accessories,South,David,1,149
+W42-0144,2026-10-15,Monitor 27,Electronics,South,Maya,2,319
+W42-0145,2026-10-16,Keyboard,Accessories,North,Anna,2,79
+W42-0146,2026-10-17,Desk Lamp,Furniture,West,Sarah,4,55
+W42-0147,2026-10-18,Wireless Mouse,Accessories,South,David,1,35
+W42-0148,2026-10-12,Desk Lamp,Furniture,South,Maya,3,55
+W42-0149,2026-10-13,Desk Lamp,Furniture,West,Sarah,1,55
+W42-0150,2026-10-14,Keyboard,Accessories,North,Lukas,1,79
+W42-0151,2026-10-15,Laptop Air,Electronics,North,Lukas,2,899
+W42-0152,2026-10-16,Monitor 27,Electronics,North,Anna,2,319
