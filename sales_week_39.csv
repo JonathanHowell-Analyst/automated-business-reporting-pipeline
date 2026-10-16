@@ -1,9 +1,0 @@
-order_id,date,product,category,region,salesperson,units,unit_price
-ORD101,2026-09-21,Laptop Pro,Electronics,North,Anna,1,1200
-ORD102,2026-09-21,Wireless Mouse,Accessories,South,David,4,35
-ORD103,2026-09-22,Monitor 27,Electronics,West,Sarah,2,320
-ORD104,2026-09-23,Keyboard,Accessories,East,Michael,5,75
-ORD105,2026-09-24,Laptop Pro,Electronics,South,David,2,1200
-ORD106,2026-09-25,USB-C Dock,Accessories,North,Anna,2,150
-ORD107,2026-09-26,Monitor 27,Electronics,East,Michael,3,320
-ORD108,2026-09-27,Wireless Mouse,Accessories,West,Sarah,5,35
