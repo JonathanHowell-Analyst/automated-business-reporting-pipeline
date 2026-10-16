@@ -28,13 +28,6 @@ python -m pip install -r requirements.txt
 python Src/main.py
 ```
 
-If VS Code defaults to a problematic Python version, use your installed Python 3.13 interpreter for both commands:
-
-```powershell
-& "C:\Users\howel\AppData\Local\Programs\Python\Python313\python.exe" -m pip install -r requirements.txt
-& "C:\Users\howel\AppData\Local\Programs\Python\Python313\python.exe" Src/main.py
-```
-
 Then open the new `.html` file in `Output` with your web browser. Both report formats are generated locally; no network connection or external dashboard service is needed.
 
 ## Run tests
