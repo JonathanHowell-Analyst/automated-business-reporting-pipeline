@@ -1,0 +1,24 @@
+WEEKLY SALES PERFORMANCE REPORT
+Source File: sales_week_40.csv
+Comparison File: sales_week_39.csv
+Reporting Period: 28 Sep 2026 - 04 Oct 2026
+===============================
+
+Total Weekly Revenue: €6,335.00
+Total Orders: 8
+Total Units Sold: 26
+Average Order Value: €791.88
+Previous Week Revenue: €6,190.00
+Week-over-Week Revenue Change: +2.34%
+Top Sales Day: 28 Sep 2026 (€2,575.00)
+Top Performing Region: North (€2,850.00, 45.0% of total revenue)
+Top Salesperson: Anna (€2,850.00)
+Top Product: Laptop Pro (€3,600.00, 56.8% of total revenue)
+Top Category: Electronics (€5,200.00, 82.1% of total revenue)
+
+BUSINESS INSIGHTS
+=================
+- Revenue increased by 2.34% compared with the previous week.
+- North is a key revenue driver, contributing 45.0% of weekly revenue.
+- Laptop Pro accounts for 56.8% of weekly revenue, indicating a high reliance on this product.
+- Electronics dominates sales, contributing 82.1% of weekly revenue.
